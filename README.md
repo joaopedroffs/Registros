@@ -57,28 +57,33 @@ cd Registros/Projeto\ em\ C
 ## Exemplo de uso
 Após executar o programa, você será apresentado a um menu com várias opções. Aqui está um exemplo de como utilizar cada uma delas:
 
-Criar um arquivo:
+- **Criar um arquivo:**
 
 Selecione a opção (1).
 Informe quantos registros de calvos você deseja cadastrar.
 Digite os nomes, tipos de calvície e idades dos calvos conforme solicitado.
-Abrir o arquivo:
+
+- **Abrir o arquivo:**
 
 Selecione a opção (2).
 O programa exibirá todos os registros que você cadastrou anteriormente.
-Modificar um registro:
+
+- **Modificar um registro:**
 
 Selecione a opção (3).
 O programa listará todos os registros. Escolha o número correspondente ao registro que deseja modificar e insira as novas informações.
-Adicionar um registro:
+
+- **Adicionar um registro:**
 
 Selecione a opção (4).
 Insira o nome, tipo de calvície e idade do calvo que você deseja adicionar.
-Deletar um registro:
+
+- **Deletar um registro:**
 
 Selecione a opção (5).
 O programa listará todos os registros. Escolha o número correspondente ao registro que deseja deletar.
-Procurar um registro:
+
+- **Procurar um registro:**
 
 Selecione a opção (6).
 Digite o nome do calvo que deseja buscar. O programa exibirá as informações se encontrar o registro.
