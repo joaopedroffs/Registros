@@ -13,9 +13,9 @@ O projeto é um sistema simples de registro que permite ao usuário realizar as 
 - **Procurar um registro:** Busca um registro pelo nome.
 
 ## Tecnologias Utilizadas
-- Linguagem C
-- Manipulação de arquivos binários
-- Estruturas de Dados (Struct)
+- **Linguagem C**
+- **Manipulação de arquivos binários**
+- **Estruturas de Dados (Struct)**
 
 ## Funcionalidades
 1. **Criar um arquivo**
